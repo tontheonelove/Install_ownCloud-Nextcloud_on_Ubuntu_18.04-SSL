@@ -3,6 +3,8 @@
 
 ////////////////Install Apache///////////////
 
+#apt-get update
+
 #apt install apache2
 
 #systemctl status apache2
