@@ -98,7 +98,7 @@ exit;
      CustomLog ${APACHE_LOG_DIR}/access.log combined 
  </VirtualHost>
  
- 
+ #a2ensite domainname.conf
  
 //////////////Install Let’s Encrypt SSL///////////////////
 
